@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Leetech1999.github.io/todoApp/static/css/main.e2fe650d.css",
+    "main.js": "/https//Leetech1999.github.io/todoApp/static/js/main.5a013cec.js",
+    "static/js/453.93678e55.chunk.js": "/https//Leetech1999.github.io/todoApp/static/js/453.93678e55.chunk.js",
+    "index.html": "/https//Leetech1999.github.io/todoApp/index.html",
+    "main.e2fe650d.css.map": "/https//Leetech1999.github.io/todoApp/static/css/main.e2fe650d.css.map",
+    "main.5a013cec.js.map": "/https//Leetech1999.github.io/todoApp/static/js/main.5a013cec.js.map",
+    "453.93678e55.chunk.js.map": "/https//Leetech1999.github.io/todoApp/static/js/453.93678e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2fe650d.css",
+    "static/js/main.5a013cec.js"
+  ]
+}
